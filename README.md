@@ -25,6 +25,7 @@
   
   **From above graphs we can see that most of the buyers are married (women) and they have high purchasing power.**
 
+
   
 ### OCCUPATION
   ![Gender](/Outputs/occupation_1.png)
