@@ -1,6 +1,6 @@
 # EDA
 
-                                                     **GENDER**
+**GENDER**
   ![Gender](/Outputs/gender_1.png)
   ![Gender](/Outputs/gender_2.png)
 
