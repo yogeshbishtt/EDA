@@ -1,3 +1,3 @@
 # EDA
 **GENDER**
-![Gender](/assets_image/BarchartGender.png)
+![Gender](/Outputs/gender_1.png)
