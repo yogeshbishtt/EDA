@@ -38,3 +38,6 @@
  ![Gender](/Outputs/product_2.png)
 
  **From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category.**
+
+ ### CONCLUSION
+ **Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.**
