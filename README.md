@@ -3,7 +3,8 @@
 ### GENDER
   ![Gender](/Outputs/gender_1.png)
   ![Gender](/Outputs/gender_2.png)
--From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men
+  
+- From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men
 **AGE**
   ![Gender](/Outputs/age_1.png)
   ![Gender](/Outputs/age_2.png)
