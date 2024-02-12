@@ -20,7 +20,7 @@
 
 ### STATUS
   ![Gender](/Outputs/status_1.png)
-
+  ![Gender](/Outputs/status_2.png)
   
   
   **From above graphs we can see that most of the buyers are married (women) and they have high purchasing power.**
